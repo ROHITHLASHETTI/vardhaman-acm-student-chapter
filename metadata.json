@@ -1,0 +1,8 @@
+{
+  "name": "Vardhaman ACM Student Chapter",
+  "description": "The official website for Vardhaman College of Engineering ACM Student Chapter, featuring Tech Fest event highlights, team introductions, and a dynamic community portal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
